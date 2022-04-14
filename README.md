@@ -26,7 +26,7 @@ A data journalist would like to see a dynamic webpage that allows users to be ab
 ![alt text](https://github.com/thehatch4815162342/UFOs/blob/main/images/filter_working.png?raw=true)
 
 ## Summary 
-Overall, this webpage does what it is intended to do, however, one major drawback is that the search is case sensitive. Since people typically capitalize proper nouns such as city names and initials for state and country, this design might not be the most intuitive. A few other features I would add to make searching easier include adding a drop-down feature for each search criteria and a button to clear filters out.
+Overall, this webpage does what it is intended to do, however, one major drawback is that the search feature is case sensitive. Since people typically capitalize proper nouns such as city names and initials for states and countries, this design might not be the most intuitive. A few other features I would add to make searching easier include adding a drop-down feature for each search criteria so users can see what options there are and a button to clear out filters.
 
 
 
