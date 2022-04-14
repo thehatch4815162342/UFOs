@@ -10,19 +10,19 @@ A data journalist would like to see a dynamic webpage that allows users to be ab
 ## Results 
 ### How to perform a search
 
-##### Main Page
+#### Main Page
 ![alt text](https://github.com/thehatch4815162342/UFOs/blob/main/images/main_page.png?raw=true)
 
-##### Filter options can be found on the left side of the page 
+#### Filter options can be found on the left side of the page 
 ![alt text](https://github.com/thehatch4815162342/UFOs/blob/main/images/filter_options.png?raw=true)
 
-##### Let's search by City and State
+#### Let's search by City and State
 ![alt text](https://github.com/thehatch4815162342/UFOs/blob/main/images/filter_city_and_state.png?raw=true)
 
-##### Example Search
+#### Example Search
 ![alt text](https://github.com/thehatch4815162342/UFOs/blob/main/images/benton_ar.png?raw=true)
 
-##### Search Results
+#### Search Results
 ![alt text](https://github.com/thehatch4815162342/UFOs/blob/main/images/filter_working.png?raw=true)
 
 ## Summary 
